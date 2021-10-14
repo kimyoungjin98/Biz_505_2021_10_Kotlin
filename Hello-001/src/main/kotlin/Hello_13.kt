@@ -18,10 +18,8 @@ fun main() {
     for(num in 2..(num1-1)) {
         if (num1 % num == 0) !flag
     }
-    if(flag === false){
-        print("$num1 은 소수가 아니다")
-    }else {
-        print("$num1 은 소수이다")
-    }
+    if(flag === false) print("$num1 은 소수가 아니다")
+    else print("$num1 은 소수이다")
+
 
 }

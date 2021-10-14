@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0f17ba3-0a94-49f9-863e-f83e7fbaf7b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Func_01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello0)92.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_06.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_08.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_09.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Prime_01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Prime_02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_05.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_13.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zTkkbfZMobLJ2VeLdhAwjCLuWk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Kotlin.Hello_10Kt">
+    <configuration name="Array_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_01Kt" />
+      <module name="Hello_002.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_03Kt" />
+      <module name="Hello_002.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_04Kt" />
+      <module name="Hello_002.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello_09Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello_09Kt" />
+      <module name="Hello_002.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello_10Kt" />
+      <module name="Hello_002.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Hello_10Kt" />
+        <item itemvalue="Kotlin.Hello_09Kt" />
+        <item itemvalue="Kotlin.Array_04Kt" />
+        <item itemvalue="Kotlin.Array_03Kt" />
+        <item itemvalue="Kotlin.Array_01Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f17ba3-0a94-49f9-863e-f83e7fbaf7b0" name="Changes" comment="" />
+      <created>1634179608659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634179608659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
