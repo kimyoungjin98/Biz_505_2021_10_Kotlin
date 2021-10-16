@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0f17ba3-0a94-49f9-863e-f83e7fbaf7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array_04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Func_01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello0)92.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_05.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_06.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_08.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_09.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Prime_01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Prime_02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_05.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-001/src/main/kotlin/Hello_13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Hello_10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Hello_10.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,5 +114,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
